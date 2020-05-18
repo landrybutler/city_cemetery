@@ -3,8 +3,6 @@
 ## Contents
 - [Status](#Status)
 - [Description](#Description)
-- [Summary](#Summary)
-- [Purpose](#Purpose)
 - [Technologies Used](#Technologies)
 - [Requirements](#Requirements)
 - [Contributors](#Contributors)
